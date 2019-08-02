@@ -1,7 +1,7 @@
 FGP
 ====
 
-<img align="right" width="230" height="150" src ="http://pp.userapi.com/ulX0FzqVDBVBIbxadds2xCopHYj8av92qCL8xg/WKcY0FK8Ua0.jpg">
+<img align="right" width="357" height="101" src ="FGP logo.png">
 
 FGP - это open source продукт с множеством инновационных пользовательских интерфейсов, позволяющий облегчить работу с различными документами, справками, приказами, наладить контакт между сотрудниками на расстоянии.
 
